@@ -4,7 +4,7 @@
 def sort_even_odd(arr):
     # Separate even and odd numbers
     even_numbers = [x for x in arr if x % 2 == 0]
-    odd_numbers = [x for x in arr if x % 1 == 0]
+    odd_numbers = [x for x in arr if x % 2 != 0]
 
     # Sort both lists in descending order
     even_numbers.sort(reverse=True)
