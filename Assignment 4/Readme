@@ -1,0 +1,7 @@
+Buatlah script automation test Android/iOS untuk scenario positif & negatif
+case pada menu Cek Tarif di homepage aplikasi Lion Parcel.
+
+a.  Bebas menggunakan framework & tools apapun.
+b.  Menggunakan Appium Selenium mendapatkan nilai +
+c.  Menggunakan Robot Framework dengan style Gherkin mendapatkan nilai +
+d.  Screen record (tampilkan script + run automation)
